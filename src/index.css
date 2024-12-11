@@ -66,3 +66,28 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.bolr{
+  background-color: #213547;
+  border-radius: 10px;
+}
+.opk{
+  background-color: darkgreen;
+  border-radius: 10px;
+}
+.liop{
+  background-color: red;
+  border-radius: 10px;
+}
+.jug{
+  background-color: yellow;
+  border-radius: 10px;
+}
+.gih{
+  background-color: aqua;
+  border-radius: 10px;
+}
+.knm{
+  background-color: #1a1a1a;
+  border-radius: 10px;
+}
